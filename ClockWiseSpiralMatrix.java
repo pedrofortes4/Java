@@ -1,8 +1,8 @@
-package testes;
+package spiral;
 
 import java.util.Scanner;
 
-public class Testes {
+public class Spiral {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
