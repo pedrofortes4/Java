@@ -1,4 +1,4 @@
-package spiral;
+package br.com.pedro;
 
 import java.util.Scanner;
 
