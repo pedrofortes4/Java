@@ -1,6 +1,14 @@
+package br.com.pedro;
+
+import java.util.Scanner;
+
+public class CalculadoraRelativística {
+
     public static void main(String[] args) {
 
         double c = 299792458.0, pctc, ms, kmh, kms, gama;
+        //Variáveis para os cálculos. 'c' é a velocidade da luz no vácuo.
+        
         String opcao;
         System.out.println("CALCULADORA LORENTZ (γ)\n");
         System.out.println("Escolha uma unidade de velocidade para o cálculo do Fator de Lorentz e digite o número correspondente:\n");
